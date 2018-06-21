@@ -1,0 +1,6 @@
+---
+
+- step:
+    name: test
+    image: tensorflow/tensorflow:0.12.1-devel-gpu
+    command: sleep 60
