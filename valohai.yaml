@@ -4,6 +4,4 @@
     name: test
     image: ikeyasu/colab-local
     command: ls
-    inputs:
-      - name: server.py
-
+    
