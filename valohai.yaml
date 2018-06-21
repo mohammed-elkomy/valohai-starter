@@ -4,3 +4,7 @@
     name: test
     image: tensorflow/tensorflow:0.12.1-devel-gpu
     command: sleep 120
+    inputs:
+      - name: server.py
+        
+    
